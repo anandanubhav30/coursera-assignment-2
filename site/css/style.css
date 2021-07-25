@@ -4,8 +4,8 @@
 
 body {
     margin-top: 0px;
-    font-family: 'Handlee', cursive;
-}
+    font-family: 'Gochi Hand', cursive;
+    font-family: 'Mina', sans-serif;}
 
 #navbar {
     padding: 0%;
@@ -17,10 +17,18 @@ body {
 #navbar-content {
     background-color: rgb(148, 147, 147);
 
-    padding: 15px;
 }
 
 #navbar-heading {
-    font-size: 24px;
+    font-size: 42px;
     font-weight: bolder;
+
+}
+
+
+#navbar-toggle-items {
+    text-align: center;
+    font-size: 30px;
+    border: 2px solid black;
+    padding-top: 2px;
 }

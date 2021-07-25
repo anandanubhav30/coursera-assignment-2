@@ -23,8 +23,10 @@ body {
 #navbar-heading {
     font-size: 42px;
     font-weight: bolder;
+    padding: 20px;
 
 }
+
 
 
 #navbar-toggle-items {

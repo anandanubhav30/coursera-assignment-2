@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    font-family: 'Handlee', cursive;
+}
+
+#navbar {
+    padding: 0%;
+    border: 2px solid black;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#navbar-content {
+    background-color: rgb(148, 147, 147);
+
+    padding: 15px;
+}
+
+#navbar-heading {
+    font-size: 24px;
+    font-weight: bolder;
+}

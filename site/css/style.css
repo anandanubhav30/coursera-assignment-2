@@ -27,14 +27,47 @@ body {
 
 }
 
-
-
 #navbar-toggle-items {
-    text-align: center;
     font-size: 30px;
     border: 2px solid black;
     background-color: white;
 }
+
+
+
+
+
+
+
+#title {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+
+
+
+
+
+#main-block-1, #main-block-2, #main-block-3 {
+    float: left;
+    background-color: rgb(177, 174, 174);
+    padding: 20px; 
+    margin-bottom: 100px;
+    border: white 10px solid;
+}
+
+#block-heading-1, #block-heading-2, #block-heading-3 {
+    text-align: center;
+    font-size: 24px;
+}
+
+
+
+
+
+
+
 
 @media (min-width: 576px) {
     .hidden-sm {
